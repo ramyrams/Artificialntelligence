@@ -7,12 +7,8 @@
 # Artificial Intelligence 
 # Machine Learning 
 
-
-13 frameworks for mastering machine learning
-http://www.infoworld.com/article/3026262/data-science/13-frameworks-for-mastering-machine-learning.html
-
-11 open source tools to make the most of machine learning
-http://www.infoworld.com/article/2853707/robotics/11-open-source-tools-machine-learning.html
+* [13 frameworks for mastering machine learning](http://www.infoworld.com/article/3026262/data-science/13-frameworks-for-mastering-machine-learning.html)
+* [11 open source tools to make the most of machine learning](http://www.infoworld.com/article/2853707/robotics/11-open-source-tools-machine-learning.html)
 
 # Deep Learning
 
