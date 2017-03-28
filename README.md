@@ -16,3 +16,7 @@
 https://blogs.technet.microsoft.com/dataplatforminsider/2017/01/05/how-six-lines-of-code-sql-server-can-bring-deep-learning-to-any-app/
 
 https://www.oreilly.com/ideas/bots-what-you-need-to-know?
+
+
+Ed Charbeneau on Machine Learning and the Full Stack Developer
+https://channel9.msdn.com/Blogs/Technology-and-Friends/tf464
