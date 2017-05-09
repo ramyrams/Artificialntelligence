@@ -8,3 +8,10 @@ https://auth0.com/blog/machine-learning-for-everyone/
 
 Principles of Machine Learning
 https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-3
+
+
+
+
+How to Explain AI to Kids
+https://medium.com/eliza-effect/science-fiction-movie-trailers-and-youtube-videos-i-use-to-help-kids-understand-artificial-38a6c08d4652
+
