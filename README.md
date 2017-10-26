@@ -1,5 +1,9 @@
 # Artificial Intelligence vs. Machine Learning vs. Deep Learning
 
+
+![1](https://www.helpscout.net/images/blog/2017/sep/9-21-ai.png)
+
+
 * [What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 * [Artificial Intelligence vs. Machine Learning vs. Deep Learning – A Comparative Guide](http://aibusiness.org/artificial-intelligence-vs-machine-learning-vs-deep-learning-a-comparative-guide/)
 * [2-minute explainer: AI vs. machine learning vs. deep learning](https://medium.com/@johnkoetsier/2-minute-explainer-ai-vs-machine-learning-vs-deep-learning-c5150fd1721e#.2y8ry5rx2)
